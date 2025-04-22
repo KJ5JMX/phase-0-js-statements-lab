@@ -28,8 +28,8 @@ console.log (lightStatus);
 
 //loops 
 while (soilMoisture < 40) {
-    soilMoisture +=5; 
-
+    soilMoisture += 5; 
+    console.log(soilMoisture);
 }
 console.log(soilMoisture);
 //for loop  

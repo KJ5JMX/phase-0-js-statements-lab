@@ -33,3 +33,4 @@ while (soilMoisture < 40) {
 }
 console.log(soilMoisture);
 //for loop  
+
